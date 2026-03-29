@@ -1,4 +1,26 @@
-## Hi there 👋
+
+# [ PROTOCOLO_COSMOS ] 🌑
+
+> **ESTADO DE SISTEMA:** EJECUTANDO...
+> **NÚCLEO:** PISCIS_v2.06
+> **AUTORIZACIÓN:** COSMOSINC
+
+---
+
+### // PERFIL_CREATIVO
+* **ROL:** Mente Maestra / Arquitecto de Sistemas Visuales.
+* **OBJETIVO:** Ejecución de conceptos de alta complejidad.
+* **ESTATUS:** Solo acceso bajo invitación.
+
+---
+
+### // REPOSITORIOS_CRÍTICOS
+* [RESTRINGIDO] `Cosmosinc` - *Encriptado*
+* [RESTRINGIDO] `Piscis_Project` - *Privado*
+
+---
+
+> "Si no entiendes el código, no perteneces aquí."
 
 <!--
 **userbren/Userbren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
