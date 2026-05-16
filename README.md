@@ -3,7 +3,7 @@
 
 > **ESTADO DE SISTEMA:** EJECUTANDO...
 > **NÚCLEO:** PISCIS_v2.06
-> **AUTORIZACIÓN:** COSMOSINC
+> **AUTORIZACIÓN:** 
 
 ---
 
