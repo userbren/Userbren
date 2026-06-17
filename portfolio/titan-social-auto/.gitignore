@@ -1,0 +1,10 @@
+# Credenciales
+.env
+
+# Base de datos local
+memoria.db
+memoria.db-journal
+
+# Python cache
+__pycache__/
+*.pyc

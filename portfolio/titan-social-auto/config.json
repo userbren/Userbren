@@ -1,0 +1,8 @@
+{
+  "feeds_industria": [
+    "https://techcrunch.com/feed/",
+    "https://feeds.wired.com/wired/index",
+    "https://news.google.com/rss/search?q=AI+news&hl=es&gl=ES&ceid=ES:es",
+    "https://www.reddit.com/r/singularity/.rss"
+  ]
+}
