@@ -1,6 +1,6 @@
 # Portfolio — Brendon Dnv (Brensk8)
 
-Proyectos y trabajos realizados. Cada carpeta contiene un proyecto con su propio README explicando el problema, solución y resultado.
+Proyectos y trabajos realizados. Cada carpeta contiene un proyecto con su README explicando tecnologías, funcionalidades y estado.
 
 ---
 
@@ -8,11 +8,15 @@ Proyectos y trabajos realizados. Cada carpeta contiene un proyecto con su propio
 
 | Proyecto | Tecnologías | Descripción | Estado |
 |----------|-------------|-------------|--------|
-| → `titan-crew/` | Producción musical | Álbum "Avengers Latino" — Brenmusic × Titan Crew | ✅ |
-| → `titan-social-auto/` | Python, automatización | Automatización de redes sociales | 🚧 |
-| → `gta-demo-unity/` | Unity, C# | Prototipo/demo en Unity | 🚧 |
-| → `desarolla-web-brd/` | Web | Proyecto web | 🚧 |
+| [TitanDrop](titan-drop/) | Node.js, Stripe, Supabase | Sistema de dropshipping con pagos | 🚧 |
+| [Titan Social Auto](titan-social-auto/) | Python, Buffer API, RSS | Automatización de redes sociales | ✅ |
+| [GTA Demo Unity](gta-demo-unity/) | Unity, C# | Prototipo mundo abierto | 🚧 |
+| [AI Editor](ai-editor/) | Node.js, React Native | Editor de código con IA | 🚧 |
+| [Tremendos Autos](tremendos-autos/) | Node.js, SQLite, 3D | Plataforma compraventa vehículos | ✅ |
+| [Titan Trading](titan-trading/) | Python, pandas, GUI | Trading algorítmico | 🚧 |
+| [Titan Music](titan-music/) | Producción musical | Música reggaetón latino | ✅ |
+| [Titan Crew](titan-crew/) | Producción musical | Álbum Avengers Latino | ✅ |
 
 ---
 
-*Más proyectos añadidos próximamente.*
+*Última actualización: 17/06/2026*
